@@ -16,7 +16,7 @@
 - 字符串替换：replace(旧的内容,新的内容)
 - 字符串切分 ：split()
 - 其他方法：
-  ![其他方法](D:\GitProjects\java-learning\JavaSE\imgs\img.png "其他方法")
+  ![其他方法](imgs\img.png)
 
 
 ## StringBuilder
